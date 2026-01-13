@@ -6,7 +6,7 @@ published at:
 https://dirigo.readthedocs.io
 
 The main Dirigo source code lives here:
-https://github.com/<org>/dirigo
+https://github.com/dirigo-developers/dirigo
 
 ## Building locally
 
