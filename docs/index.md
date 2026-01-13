@@ -14,7 +14,7 @@ reference/index
 changelog
 ```
 
-## What is Dirigo?
+## What is Dirigo??
 Dirigo is a modular Python framework for high-performance image acquisition, built around
 clear abstract interfaces (ABC) and pluggable concrete drivers for diverse hardware.
 
